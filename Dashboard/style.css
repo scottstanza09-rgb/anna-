@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sidebar {
+  background: green;
+  width: 12rem;
+  height: 100vh;
+  padding: 0.635rem;
+}
+.power {
+  gap: 2rem;
+  margin-bottom: 1rem;
+  margin-left: 2rem;
+}
+.dash {
+  display: flex;
+  background: white;
+  border-radius: 0.0625rem 0.0625rem;
+  padding: 0.45rem;
+  width: 10rem;
+  gap: 2rem;
+}
+.order {
+  display: flex;
+  padding: 1rem;
+  gap: 2rem;
+  color: white;
+}
+.product {
+  display: flex;
+  padding: 1rem;
+  gap: 2rem;
+  color: white;
+}
+.payment {
+  display: flex;
+  padding: 1rem;
+  gap: 2rem;
+  color: white;
+}
+.shipping {
+  display: flex;
+  padding: 1rem;
+  gap: 2rem;
+  color: white;
+}
+.setting {
+  display: flex;
+  padding: 1rem;
+  color: white;
+  gap: 2rem;
+  color: white;
+}
+.connect {
+  display: flex;
+  background: white;
+  border-radius: 0.0625rem 0.0625rem;
+  padding: 0.45rem;
+  width: 10rem;
+  gap: 2rem;
+  color: green;
+}
+.customer {
+  margin-top: 0.3rem;
+  color: white;
+  padding: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+.terms {
+  color: white;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+}
